@@ -1,6 +1,6 @@
 click==6.7
 Flask==0.12.2
--e git+https://github.com/treegem/flaskr.git@8a7a582439fdd120e933f8f4e08e979f5169c4bf#egg=flaskr
+-e git+https://github.com/treegem/flaskr@5a081055a0271803830ada07a78a41fb90aa43ad#egg=flaskr
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
